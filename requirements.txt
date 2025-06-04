@@ -1,0 +1,6 @@
+flask
+transformers
+openvino
+numpy
+scikit-learn
+pandas
