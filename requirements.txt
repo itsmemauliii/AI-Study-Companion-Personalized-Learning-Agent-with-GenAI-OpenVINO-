@@ -1,6 +1,6 @@
-flask
+streamlit
 transformers
+torch
 openvino
 numpy
-scikit-learn
-pandas
+requests
